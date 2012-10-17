@@ -27,6 +27,8 @@ Requirements
   - Python 2.7/3.2 or PyPy
   - Tornado 2.4 (Looking in to using Motor)
   - MongoDB 2.2 (TTL collection support)
+  - At (Yes.. really!)
+  - InetD (Also.. really!)
 
 Client Applications
 ===================
